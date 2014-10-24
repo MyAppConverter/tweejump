@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1048273567/PATH/delimiter=;
+environment/project/com.android.toolchain.gcc.1048273567/PATH/operation=replace
+environment/project/com.android.toolchain.gcc.1048273567/PATH/value=C\:\\cygwin\\bin;C\:/Program Files (x86)/Java/jre1.8.0_20/bin/client;C\:/Program Files (x86)/Java/jre1.8.0_20/bin;C\:/Program Files (x86)/Java/jre1.8.0_20/lib/i386;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\cygwin64\\bin;D\:\\work\\NDK\\android-ndk-r10;D\:\\work\\android-sdk\\sdk\\platform-tools;D\:\\work\\android-sdk\\sdk\\tools;D\:\\work\\apache-ant-1.9.4\\bin;C\:\\Program Files (x86)\\Java\\jre7\\bin;D\:\\work\\swigwin-3.0.2\\Tools;D\:\\work\\swigwin-3.0.2;C\:\\Program Files (x86)\\Java\\jre7\\bin;D\:\\work\\NDK\\android-ndk-r10;D\:\\work\\android-sdk\\sdk\\tools;D\:\\work\\android-sdk\\sdk\\platform-tools;C\:\\Program Files (x86)\\Java\\jre7;JAVA_HOME;C\:\\Program Files (x86)\\Java\\jdk1.8.0_20\\bin;D\:\\work\\eclipse_adt
+environment/project/com.android.toolchain.gcc.1048273567/append=true
+environment/project/com.android.toolchain.gcc.1048273567/appendContributed=true

@@ -1,0 +1,518 @@
+
+
+								MyAppConverter
+                           Version 1.0, Sep, 19 2014 - 15:36:14
+                        http://www.myappconverter.com/
+
+
+
+TRANSFORMATION MAPPING NOTES
+
+
+
+	
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [RootViewController.java] ---
+-Method with Name didReceiveMemoryWarning is Not Mapped!
+-Method with Name viewDidUnload is Not Mapped!
+-Method with Name dealloc is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [Game.java] ---
+-Variable with Name bird_pos and Type: CGPoint is Mapped!
+-Variable with Name bird_vel and Type: ccVertex2F is Not Mapped!
+-Variable with Name bird_acc and Type: ccVertex2F is Not Mapped!
+-Variable with Name currentPlatformY and Type: float is Not Mapped!
+-Variable with Name currentPlatformTag and Type: int is Not Mapped!
+-Variable with Name currentMaxPlatformStep and Type: float is Not Mapped!
+-Variable with Name currentBonusPlatformIndex and Type: int is Not Mapped!
+-Variable with Name currentBonusType and Type: int is Not Mapped!
+-Variable with Name platformCount and Type: int is Not Mapped!
+-Variable with Name gameSuspended and Type:  is Not Mapped!
+-Variable with Name birdLookingRight and Type:  is Not Mapped!
+-Variable with Name score and Type: int is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [Game.java] ---
+-Variable with Name game and Type: CCScene is Mapped!
+-Method with Name node is Mapped!
+-Variable with Name layer and Type: Game is Not Mapped!
+-Method with Name node is Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name init is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Method with Name initPlatforms is Not Mapped!
+-Variable with Name bird and Type: CCSprite is Mapped!
+-Method with Name spriteWithTexture is Not Mapped!
+-Method with Name texture is Not Mapped!
+-Method with Name addChild is Mapped!
+-Variable with Name bonus and Type: CCSprite is Mapped!
+-Variable with Name i and Type: int is Not Mapped!
+-Method with Name spriteWithTexture is Not Mapped!
+-Method with Name texture is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name setIsVisible is Not Mapped!
+-Variable with Name scoreLabel and Type: CCLabelBMFont is Mapped!
+-Method with Name labelWithString is Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name setPosition is Not Mapped!
+-Method with Name schedule is Not Mapped!
+-Method with Name setIsIsTouchEnabled is Not Mapped!
+-Method with Name setIsIsAccelerometerEnabled is Not Mapped!
+-Method with Name sharedAccelerometer is Not Mapped!
+-Method with Name setUpdateInterval is Not Mapped!
+-Method with Name startGame is Not Mapped!
+-Method with Name dealloc is Not Mapped!
+-Method with Name initPlatform is Not Mapped!
+-Method with Name resetPlatforms is Not Mapped!
+-Variable with Name rect and Type: CGRect is Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name platform and Type: CCSprite is Mapped!
+-Method with Name spriteWithTexture is Not Mapped!
+-Method with Name texture is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name resetClouds is Not Mapped!
+-Method with Name resetPlatforms is Not Mapped!
+-Method with Name resetBird is Not Mapped!
+-Method with Name resetBonus is Not Mapped!
+-Method with Name sharedApplication is Mapped!
+-Method with Name setIdleTimerDisabled is Not Mapped!
+-Method with Name resetPlatform is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name platform and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Method with Name setScaleX is Not Mapped!
+-Variable with Name x and Type: float is Not Mapped!
+-Variable with Name size and Type: CGSize is Mapped!
+-Method with Name getContentSize is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Variable with Name bonus and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Method with Name setPosition is Not Mapped!
+-Method with Name setIsVisible is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name bird and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name xx and Type: int is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Method with Name setScaleX is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name bonus and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Method with Name setIsVisible is Not Mapped!
+-Method with Name step is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name bird and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Method with Name setScaleX is Not Mapped!
+-Method with Name setScaleX is Not Mapped!
+-Variable with Name bird_size and Type: CGSize is Mapped!
+-Method with Name getContentSize is Not Mapped!
+-Variable with Name max_x and Type: float is Not Mapped!
+-Variable with Name min_x and Type: float is Not Mapped!
+-Variable with Name bonus and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Method with Name getVisible is Not Mapped!
+-Variable with Name bonus_pos and Type: CGPoint is Mapped!
+-Method with Name getPosition is Not Mapped!
+-Variable with Name range and Type: float is Not Mapped!
+-Variable with Name scoreStr and Type: NSString is Mapped!
+-Method with Name stringWithFormat is Not Mapped!
+-Variable with Name scoreLabel and Type: CCLabelBMFont is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Method with Name setString is Not Mapped!
+-Variable with Name a1 and Type: CCScaleTo is Not Mapped!
+-Method with Name actionWithDuration is Not Mapped!
+-Variable with Name a2 and Type: CCScaleTo is Not Mapped!
+-Method with Name actionWithDuration is Not Mapped!
+-Variable with Name a3 and Type: CCSequence is Not Mapped!
+-Method with Name actions is Not Mapped!
+-Method with Name runAction is Mapped!
+-Method with Name resetBonus is Not Mapped!
+-Variable with Name t and Type: int is Not Mapped!
+-Variable with Name platform and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name platform_size and Type: CGSize is Mapped!
+-Method with Name getContentSize is Not Mapped!
+-Variable with Name platform_pos and Type: CGPoint is Mapped!
+-Method with Name getPosition is Not Mapped!
+-Variable with Name min_y and Type: float is Not Mapped!
+-Method with Name jump is Not Mapped!
+-Method with Name showHighscores is Not Mapped!
+-Variable with Name delta and Type: float is Not Mapped!
+-Variable with Name cloud and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name pos and Type: CGPoint is Mapped!
+-Method with Name getPosition is Not Mapped!
+-Method with Name getScaleY is Not Mapped!
+-Method with Name getContentSize is Not Mapped!
+-Method with Name resetCloud is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Variable with Name platform and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name pos and Type: CGPoint is Mapped!
+-Method with Name getPosition is Not Mapped!
+-Method with Name getContentSize is Not Mapped!
+-Method with Name resetPlatform is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Method with Name getVisible is Not Mapped!
+-Variable with Name pos and Type: CGPoint is Mapped!
+-Method with Name getPosition is Not Mapped!
+-Method with Name getContentSize is Not Mapped!
+-Method with Name resetBonus is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Variable with Name scoreStr and Type: NSString is Mapped!
+-Method with Name stringWithFormat is Not Mapped!
+-Variable with Name scoreLabel and Type: CCLabelBMFont is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Method with Name setString is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Method with Name sharedApplication is Mapped!
+-Method with Name setIdleTimerDisabled is Not Mapped!
+-Method with Name sharedDirector is Mapped!
+-Method with Name replaceScene is Not Mapped!
+-Method with Name transitionWithDuration is Not Mapped!
+-Method with Name sceneWithScore is Not Mapped!
+-Variable with Name accel_filter and Type: float is Not Mapped!
+-Method with Name getX is Not Mapped!
+-Method with Name startGame is Not Mapped!
+-Method with Name startGame is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [Highscores.java] ---
+-Variable with Name currentPlayer and Type: NSString is Mapped!
+-Variable with Name currentScore and Type: int is Not Mapped!
+-Variable with Name currentScorePosition and Type: int is Not Mapped!
+-Variable with Name highscores and Type: NSMutableArray is Mapped!
+-Variable with Name changePlayerAlert and Type: UIAlertView is Mapped!
+-Variable with Name changePlayerTextField and Type: UITextField is Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [Highscores.java] ---
+-Variable with Name game and Type: CCScene is Mapped!
+-Method with Name node is Mapped!
+-Variable with Name layer and Type: Highscores is Not Mapped!
+-Method with Name initWithScore is Not Mapped!
+-Method with Name autorelease is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name init is Not Mapped!
+-Method with Name loadCurrentPlayer is Not Mapped!
+-Method with Name loadHighscores is Not Mapped!
+-Method with Name updateHighscores is Not Mapped!
+-Method with Name saveHighscores is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name title and Type: CCSprite is Mapped!
+-Method with Name spriteWithTexture is Not Mapped!
+-Method with Name texture is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name setPosition is Not Mapped!
+-Variable with Name start_y and Type: float is Not Mapped!
+-Variable with Name step and Type: float is Not Mapped!
+-Variable with Name count and Type: int is Not Mapped!
+-Variable with Name highscoreInter and Type: Object is Mapped!
+-Variable with Name player and Type: NSString is Mapped!
+-Method with Name objectAtIndex is Mapped!
+-Variable with Name score and Type: int is Not Mapped!
+-Method with Name objectAtIndex is Mapped!
+-Method with Name intValue is Mapped!
+-Variable with Name label1 and Type: CCLabelTTF is Mapped!
+-Method with Name labelWithString is Not Mapped!
+-Method with Name stringWithFormat is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name setColor is Not Mapped!
+-Method with Name setOpacity is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Variable with Name label2 and Type: CCLabelTTF is Mapped!
+-Method with Name labelWithString is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name setColor is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Variable with Name label3 and Type: CCLabelTTF is Mapped!
+-Method with Name labelWithString is Not Mapped!
+-Method with Name stringWithFormat is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name setColor is Not Mapped!
+-Method with Name setOpacity is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Variable with Name button1 and Type: CCMenuItem is Not Mapped!
+-Method with Name itemFromNormalImage is Not Mapped!
+-Variable with Name button2 and Type: CCMenuItem is Not Mapped!
+-Method with Name itemFromNormalImage is Not Mapped!
+-Variable with Name menu and Type: CCMenu is Not Mapped!
+-Method with Name menuWithItems is Not Mapped!
+-Method with Name alignItemsVerticallyWithPadding is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name release is Not Mapped!
+-Method with Name dealloc is Not Mapped!
+-Variable with Name defaults and Type: NSUserDefaults is Mapped!
+-Method with Name standardUserDefaults is Mapped!
+-Method with Name objectForKey is Mapped!
+-Variable with Name defaults and Type: NSUserDefaults is Mapped!
+-Method with Name standardUserDefaults is Mapped!
+-Method with Name initWithArray is Mapped!
+-Method with Name objectForKey is Mapped!
+-Method with Name count is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Variable with Name count and Type: int is Not Mapped!
+-Variable with Name highscoreInter and Type: Object is Mapped!
+-Variable with Name score and Type: int is Not Mapped!
+-Method with Name objectAtIndex is Mapped!
+-Method with Name intValue is Mapped!
+-Method with Name insertObjectAtIndex is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name removeLastObject is Not Mapped!
+-Variable with Name defaults and Type: NSUserDefaults is Mapped!
+-Method with Name standardUserDefaults is Mapped!
+-Method with Name setObjectForKey is Mapped!
+-Variable with Name defaults and Type: NSUserDefaults is Mapped!
+-Method with Name standardUserDefaults is Mapped!
+-Method with Name setObjectForKey is Mapped!
+-Variable with Name ts and Type: CCTransitionScene is Not Mapped!
+-Method with Name transitionWithDuration is Not Mapped!
+-Method with Name scene is Not Mapped!
+-Method with Name sharedDirector is Mapped!
+-Method with Name replaceScene is Not Mapped!
+-Method with Name _new is Mapped!
+-Method with Name setTitle is Not Mapped!
+-Method with Name setMessage is Not Mapped!
+-Method with Name setDelegate is Not Mapped!
+-Method with Name addButtonWithTitle is Mapped!
+-Method with Name addButtonWithTitle is Mapped!
+-Method with Name initWithFrame is Mapped!
+-Method with Name setBorderStyle is Not Mapped!
+-Method with Name addSubview is Not Mapped!
+-Method with Name setKeyboardType is Not Mapped!
+-Method with Name setReturnKeyType is Not Mapped!
+-Method with Name setAutocorrectionType is Not Mapped!
+-Method with Name setAutocapitalizationType is Not Mapped!
+-Method with Name setDelegate is Not Mapped!
+-Method with Name becomeFirstResponder is Mapped!
+-Method with Name show is Not Mapped!
+-Method with Name draw is Not Mapped!
+-Variable with Name w and Type: float is Not Mapped!
+-Variable with Name h and Type: float is Not Mapped!
+-Variable with Name x and Type: float is Not Mapped!
+-Variable with Name y and Type: float is Not Mapped!
+-Variable with Name vertices and Type: [4][2] is Not Mapped!
+-Variable with Name indices and Type: [4] is Not Mapped!
+-Method with Name getText is Not Mapped!
+-Method with Name retain is Not Mapped!
+-Method with Name saveCurrentPlayer is Not Mapped!
+-Method with Name removeObjectAtIndex is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithObjects is Mapped!
+-Method with Name numberWithInt is Mapped!
+-Method with Name saveHighscores is Not Mapped!
+-Method with Name sharedDirector is Mapped!
+-Method with Name replaceScene is Not Mapped!
+-Method with Name transitionWithDuration is Not Mapped!
+-Method with Name sceneWithScore is Not Mapped!
+-Method with Name changePlayerDone is Not Mapped!
+-Method with Name dismissWithClickedButtonIndexAnimated is Mapped!
+-Method with Name changePlayerDone is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+				
+			
+		
+			
+		
+	
+		
+[+] FILE: [Main.java] ---
+-Variable with Name currentCloudTag and Type: int is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [Main.java] ---
+-Method with Name init is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name batchNodeWithFile is Not Mapped!
+-Method with Name addChild is Mapped!
+-Variable with Name background and Type: CCSprite is Mapped!
+-Method with Name spriteWithTexture is Not Mapped!
+-Method with Name texture is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name setPosition is Not Mapped!
+-Method with Name initClouds is Not Mapped!
+-Method with Name schedule is Not Mapped!
+-Method with Name dealloc is Not Mapped!
+-Method with Name initCloud is Not Mapped!
+-Method with Name resetClouds is Not Mapped!
+-Variable with Name rect and Type: CGRect is Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name cloud and Type: CCSprite is Mapped!
+-Method with Name spriteWithTexture is Not Mapped!
+-Method with Name texture is Not Mapped!
+-Method with Name addChild is Mapped!
+-Method with Name setOpacity is Not Mapped!
+-Method with Name resetCloud is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name cloud and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name pos and Type: CGPoint is Mapped!
+-Method with Name getPosition is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name cloud and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name distance and Type: float is Not Mapped!
+-Variable with Name scale and Type: float is Not Mapped!
+-Method with Name setScaleX is Not Mapped!
+-Method with Name setScaleY is Not Mapped!
+-Method with Name setScaleX is Not Mapped!
+-Method with Name getScaleX is Not Mapped!
+-Variable with Name size and Type: CGSize is Mapped!
+-Method with Name getContentSize is Not Mapped!
+-Variable with Name scaled_width and Type: float is Not Mapped!
+-Variable with Name x and Type: float is Not Mapped!
+-Variable with Name y and Type: float is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+-Variable with Name batchNode and Type: CCSpriteBatchNode is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name t and Type: int is Not Mapped!
+-Variable with Name cloud and Type: CCSprite is Mapped!
+-Method with Name getChildByTag is Mapped!
+-Variable with Name pos and Type: CGPoint is Mapped!
+-Method with Name getPosition is Not Mapped!
+-Variable with Name size and Type: CGSize is Mapped!
+-Method with Name getContentSize is Not Mapped!
+-Method with Name getScaleY is Not Mapped!
+-Method with Name setPosition is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+	
+	
+
+
+
+END OF TRANSFORMATION MAPPING NOTES
+(c)	www.myappconverter.com
+
